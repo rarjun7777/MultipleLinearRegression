@@ -8,9 +8,9 @@ GoogleColab Link : https://colab.research.google.com/drive/1jubOxkC6Z9ywPhVTNzZW
 
 -> Importing the libraries
 
-->Importing the dataset
+-> Importing the dataset
 
-->Encoding categorical data
+-> Encoding categorical data
 
 -> Splitting the dataset into the Training set and Test set
 
